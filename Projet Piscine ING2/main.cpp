@@ -5,9 +5,7 @@ using namespace std;
 int main()
 {
     cout << "Hello world!" << endl;
-    //LOL//
 
-    // mdr//
-    //toujhgjhjhgb
+    //LOULOU EST DE LA PARTIE
     return 0;
 }
