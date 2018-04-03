@@ -6,5 +6,7 @@ int main()
 {
     cout << "Hello world!" << endl;
     //LOL//
+
+    // mdr//
     return 0;
 }
